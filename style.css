@@ -1,1 +1,10 @@
-
+.height-80{
+  min-height: 100vh;
+}
+.about-picture{
+  background:url("images others/eagle500x625.jpeg")center/cover no-repeat fixed;
+  /* background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
+}
